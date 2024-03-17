@@ -28,6 +28,11 @@ To hide a binary message "101" using the LSB method:
         Red: 11001101
         Green: 10101010
         Blue: 11110001
+
+## What other types of steganography are there?
+
+Steganography is hard for the defense side, because there’s practically an infinite number of ways it could be carried out. Here are a few examples: - LSB steganography: different bits,
+different bit combinations - Encode in every certain number of bytes - Use a password - Hide in different places - Use encryption on top of steganography
 ## Refernces 
 https://ctf101.org/forensics/what-is-stegonagraphy/  
 
