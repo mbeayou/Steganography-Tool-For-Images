@@ -2,11 +2,12 @@
 Steganography is the practice of hiding data in plain sight. Steganography is often embedded in images or audio.
 
 ## Preview:
-![alt text](https://github.com/mbeayou/Steganography-Tool-For-Images/raw/master/src/assits/home.png)
-![alt text](https://github.com/mbeayou/Steganography-Tool-For-Images/raw/master/src/assits/hide1.png)
-![alt text](https://github.com/mbeayou/Steganography-Tool-For-Images/raw/master/src/assits/hide2.png)
-![alt text](https://github.com/mbeayou/Steganography-Tool-For-Images/raw/master/src/assits/reveal1.png)
-![alt text](https://github.com/mbeayou/Steganography-Tool-For-Images/raw/master/src/assits/reveal2.png)
+![alt text](https://github.com/mbeayou/Steganography-Tool-For-Images/blob/main/src/assits/home.png)
+![alt text](https://github.com/mbeayou/Steganography-Tool-For-Images/blob/main/src/assits/hide1.png)
+![alt text](https://github.com/mbeayou/Steganography-Tool-For-Images/blob/main/src/assits/hide2.png)
+![alt text](https://github.com/mbeayou/Steganography-Tool-For-Images/blob/main/src/assits/reveal1.png)
+![alt text](https://github.com/mbeayou/Steganography-Tool-For-Images/blob/main/src/assits/reveal2.png)
+
 
 ## LSB Method:
 he LSB (Least Significant Bit) method is one of the simplest and most commonly used techniques in steganography. It involves replacing the least significant bit of each byte in an image, audio file, or other digital media with a bit of the secret message. Since the least significant bit contributes the least to the overall value of the byte, altering it slightly typically does not noticeably change the appearance or quality of the medium to the human eye or ear.
